@@ -5,6 +5,6 @@
 
 如有需求自行修改第9行【直播间房号】和第10行【主播UID】，自行编译运行
 
-[releases](https://github.com/le45tx1m/biliLiveGuard/releases)有一个针对[雫るる直播间](https://space.bilibili.com/387636363)打包好的exe，可以加进系统计划任务定时执行
+[releases](https://github.com/le45tx1m/biliLiveGuard/releases)有一个针对[雫るる直播间](https://space.bilibili.com/387636363)打包好的exe，可以加入系统任务计划程序定时执行
 
 # 关注[lulu](https://space.bilibili.com/387636363)喵，关注[lulu](https://space.bilibili.com/387636363)谢谢喵！
