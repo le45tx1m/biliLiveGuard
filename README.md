@@ -1,7 +1,6 @@
-# biliLiveGuard
-B站直播间舰长列表获取
+# 哔哩哔哩直播间舰队成员名单获取(以雫るる直播间为例)
+参考原作者[Ninzore](https://github.com/Ninzore/biliLiveGuard/)，特此感谢
 
-填上房间号和uid，跑就行了，会在同一文件夹生成一个 {房间号}_guardian.csv 的文件
+修改输出为【舰队成员名单】子目录下<当前日期时间>.csv方便整理记录，如果不存在该文件夹会自动创建
 
-需求：  
-[Requests](https://github.com/psf/requests)
+如有需求自行修改第9行直播间房号和第10行主播UID，自行编译运行
